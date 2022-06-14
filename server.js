@@ -30,7 +30,7 @@ app.get("/home", function(req, res) {
 
 app.get("/nfl-players", function(req, res) {
   res.render("nfl-players/index", {
-    
+    nflPlayers: nflPlayers,
   });
 });
 
