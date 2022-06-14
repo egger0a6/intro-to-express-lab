@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/egger0a6/intro-to-express-lab/issues"
   },
-  "homepage": "https://github.com/egger0a6/intro-to-express-lab#readme"
+  "homepage": "https://github.com/egger0a6/intro-to-express-lab#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
 }
